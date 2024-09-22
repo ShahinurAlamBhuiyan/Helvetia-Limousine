@@ -6,7 +6,7 @@ Welcome to the repository for **Helvetia Limousine**, a premium limousine servic
 
 The Helvetia Limousine website provides an elegant and user-friendly interface for booking luxury limousine services. It integrates real-time features such as Google Maps for navigation, direction, and duration calculations, allowing users to effortlessly plan their trips. The multi-language support ensures that the website is accessible to a diverse audience.
 
-You can view the live project [here](https://helvetia-seven.vercel.app/).
+You can view the live project <a href="https://www.helvetialimousine.ch/" target="_blank">here</a>.
 
 ---
 
@@ -18,7 +18,6 @@ This project was built using the following technologies:
 - **Tailwind CSS**: A utility-first CSS framework used for designing a modern, responsive layout.
 - **AOS**: Library used for smooth on-scroll animations, enhancing the user experience.
 - **React CountUp**: For displaying real-time animated counting numbers, used for statistics and metrics.
-- **React DatePicker**: Implemented for smooth and intuitive date and time selection during bookings.
 - **i18next**: Used for enabling multilingual support, providing a seamless experience for users in different languages.
 - **Google Maps API**: Integrated to display the service area and trip locations directly on the map.
 - **Google Directions API**: Fetches the best routes between destinations.
@@ -67,7 +66,7 @@ Here are some screenshots of the Helvetia Limousine website:
 ## 🚀 Deployment
 
 The website is deployed on Vercel and is live at the following URL:  
-[https://helvetia-seven.vercel.app/](https://helvetia-seven.vercel.app/)
+[https://www.helvetialimousine.ch/](https://www.helvetialimousine.ch)
 
 ---
 
