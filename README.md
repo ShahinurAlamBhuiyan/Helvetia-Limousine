@@ -73,12 +73,8 @@ The website is deployed on Vercel and is live at the following URL:
 
 ## 📬 Contact
 
-For any inquiries regarding the project or collaboration, feel free to reach out via [EmailJS] or contact me through this repository.
+For any inquiries regarding the project or collaboration, feel free to reach out via or contact me through this repository.
 
 ---
 
-Thank you for visiting this repository! Feel free to explore the code and suggest improvements.
-
---- 
-
-© 2024 Helvetia Limousine, Switzerland.
+Thank you for visiting this repository! 
